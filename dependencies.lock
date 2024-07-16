@@ -1,0 +1,15 @@
+dependencies:
+  ethernet_init:
+    component_hash: null
+    source:
+      path: /home/damien/esp/esp-idf/examples/ethernet/basic/components/ethernet_init
+      type: local
+    version: '*'
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.4.0
+manifest_hash: ed573ef7d523a768ea15df94d05e565e4d247ac509a4912ee6f04c835be4cd41
+target: esp32
+version: 1.0.0
